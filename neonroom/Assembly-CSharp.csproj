@@ -37,7 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/DayNightScript.cs" />
-     <Compile Include="Assets/LightSwitch.cs" />
+     <Compile Include="Assets/DimLights.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Users/graceho/Unity/2021.3.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

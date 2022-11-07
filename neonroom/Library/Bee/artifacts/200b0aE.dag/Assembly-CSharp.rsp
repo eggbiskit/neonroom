@@ -360,7 +360,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/DayNightScript.cs"
-"Assets/LightSwitch.cs"
+"Assets/DimLights.cs"
 -langversion:9.0
 
 /deterministic
