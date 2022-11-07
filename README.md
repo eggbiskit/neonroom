@@ -13,7 +13,7 @@ CMPM121 Game Technologies - HW 2
 on/off/dimmed light
 
 - spotlights can be turned on and off with checkmark (used Toggle)
-- dim spotlights with slider (used a [script](https://www.youtube.com/watch?v=T2tyoB5iwT8))
+- dim area light with slider (used a [script](https://www.youtube.com/watch?v=T2tyoB5iwT8))
 
 particle emitter
 
